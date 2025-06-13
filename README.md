@@ -27,7 +27,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Banini-AD/Blog-preview-card)
 - Live Site URL: [Add live site URL here](https://blog-preview-card-one-pearl.vercel.app/)
 
 ## My process
