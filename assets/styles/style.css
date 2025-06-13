@@ -167,9 +167,6 @@ footer {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-.attribution {
-  
-}
 
 @media  screen and (max-width: 475px) {
   main{
