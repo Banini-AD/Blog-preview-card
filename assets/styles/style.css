@@ -155,12 +155,20 @@ header {
 footer {
   flex: 0.225;
 }
-
 .attribution {
+  font-size: 11px;
+  text-align: center;
   display: flex;
   align-items: end;
   flex: 0.225;
   padding-bottom: 20px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.attribution {
+  
 }
 
 @media  screen and (max-width: 475px) {
